@@ -1,4 +1,5 @@
-export const dynamic = 'force-static';
+import Link from 'next/link'
+  export const dynamic = 'force-static';
 export default function ConsultingPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">
