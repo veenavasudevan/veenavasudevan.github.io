@@ -15,7 +15,7 @@ export default function ConsultingPage() {
               Reimagining classrooms to be sites of joy, play, and possibility for all learners.
             </h1>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              I work with organizations, districts, and educators who need a thought partner with genuine classroom knowledge — someone who understands how identity and place shape learning, and has spent years inside schools as a researcher, teacher, and collaborator.
+              I work with organizations, districts, and educators who need a thought partner with genuine classroom knowledge, someone, who understands how identity and place shape learning, and has spent years inside schools as a researcher, teacher, and collaborator.
             </p>
             <div className="flex flex-wrap gap-3 mb-8">
               <span className="text-sm text-gray-500 border border-gray-200 px-3 py-1">
