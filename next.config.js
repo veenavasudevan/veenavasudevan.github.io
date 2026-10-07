@@ -1,9 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  trailingSlash: true,
-  images: { unoptimized: true },
-  typescript: { ignoreBuildErrors: true },
-  eslint: { ignoreDuringBuilds: true },
-}
-export default nextConfig
+  trailingSlash: true, // Forces output to /consulting/index.html
+  images: {
+    unoptimized: true, // Required for static export on GitHub Pages
+  },
+};
+
+export default nextConfig;
