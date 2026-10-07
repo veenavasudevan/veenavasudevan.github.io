@@ -64,26 +64,26 @@ export default function Home() {
               </div>
             </div>
           </div>
-          
+
           <div className="space-y-6 text-base text-zinc-600">
             <p>
-              I'm an educational ethnographer and qualitative researcher focused on 
-              the learning, literacy, and identity practices of youth and educators 
+              I&apos;m an educational ethnographer and qualitative researcher focused on
+              the learning, literacy, and identity practices of youth and educators
               from PreK-12.
             </p>
 
             <p>
-              Currently, I am an assistant professor of digital media and learning at 
-              University of Pittsburgh's School of Education. In my role I coordinate 
-              the <a href="https://www.education.pitt.edu/program/med-in-curriculum-and-instruction/" className="text-teal-500 hover:text-teal-600">MEd in Curriculum & Instruction</a>, <a href="https://www.education.pitt.edu/program/steam-education-certificate/" className="text-teal-500 hover:text-teal-600">STEAM</a>, and <a href="https://www.education.pitt.edu/program/critical-technology-and-digital-media-for-learning-certificate/" className="text-teal-500 hover:text-teal-600">CriT-DML</a> certificate 
-              programs. I also founded and run <a href="https://www.education.pitt.edu/centers-and-engagement/centers-projects/imagination-playce/" 
+              Currently, I am an assistant professor of digital media and learning at
+              University of Pittsburgh&apos;s School of Education. In my role I coordinate
+              the <a href="https://www.education.pitt.edu/program/med-in-curriculum-and-instruction/" className="text-teal-500 hover:text-teal-600">MEd in Curriculum &amp; Instruction</a>, <a href="https://www.education.pitt.edu/program/steam-education-certificate/" className="text-teal-500 hover:text-teal-600">STEAM</a>, and <a href="https://www.education.pitt.edu/program/critical-technology-and-digital-media-for-learning-certificate/" className="text-teal-500 hover:text-teal-600">CriT-DML</a> certificate
+              programs. I also founded and run <a href="https://www.education.pitt.edu/centers-and-engagement/centers-projects/imagination-playce/"
               className="text-teal-500 hover:text-teal-600">Imagination PLAYce</a>.
             </p>
 
             <p>
-              My most recent book, <a href="https://www.amazon.com/Care-Based-Methodologies-Reimagining-Qualitative-Research/dp/1975504518" 
-              className="italic text-teal-500 hover:text-teal-600">Care-Based Methodologies: 
-              Reimagining Qualitative Research With Youth in US Schools</a> is now 
+              My most recent book, <a href="https://www.amazon.com/Care-Based-Methodologies-Reimagining-Qualitative-Research/dp/1975504518"
+              className="italic text-teal-500 hover:text-teal-600">Care-Based Methodologies:
+              Reimagining Qualitative Research With Youth in US Schools</a> is now
               available.
             </p>
           </div>
